@@ -6,6 +6,12 @@
 ### Mis Tecnologias 
 
 <ul>
+  <li>JavaScript <img src='https://media-exp1.licdn.com/dms/image/C4E16AQHKKZrPzgNNxQ/profile-displaybackgroundimage-shrink_350_1400/0/1633058200160?e=1638403200&v=beta&t=t25o6DOAte1BqbpaJ_8HYWXmkkLGsMGXf11XZMNB7A4'>  </li>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>VBA</li>
+  <li>Node</li>
+  <li>JavaScript</li>
   <li>JavaScript</li>
 </ul> 
 <!--
