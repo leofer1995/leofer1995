@@ -10,7 +10,7 @@
   <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
   <li>Redux <img style='width:20px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gltPu8C7VFaLIEprGm9Vpms3NLxqQJX1Gw&usqp=CAU'></li>
   <li>NodeJS <img style='width:30px; height:20px'src='https://images.squarespace-cdn.com/content/v1/521e95f4e4b01c5870ce81cf/1519923171672-4YI5F2WKL7JUMEJZYKTL/Node_1.png'></li>
-  <li>ExpressJS <img style='width:40px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU'></li>
+  <li>ExpressJS <img style='width:50px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU'></li>
   <li>Postgres <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
   <li>Sequelize <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
   <li>NPM <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
