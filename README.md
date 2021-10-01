@@ -1,3 +1,9 @@
+<style>
+  .contenedor{
+    display:flex
+  }
+</style>
+
 ### Hola, Soy Leo! 👋
 <div>
   <img src='https://media-exp1.licdn.com/dms/image/C4E16AQHKKZrPzgNNxQ/profile-displaybackgroundimage-shrink_350_1400/0/1633058200160?e=1638403200&v=beta&t=t25o6DOAte1BqbpaJ_8HYWXmkkLGsMGXf11XZMNB7A4'>  
@@ -5,7 +11,7 @@
 
 ### Mis Tecnologias 
 
-  
+<div class='contenedor'>  
    <div class='pull-left'>
       <ul>
          <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
@@ -23,22 +29,9 @@
    <div class='pull-right'>
       <img style='width:50px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'>
    </div>
-
-
-<div class="pull-left">
-
-<center>Seperar tu contenido </center>
-  
-##### Algunas ideas...
-  
-Separar el texto en dos columnas es ideal para crear historias o hacer una especie de libro virtual, así como tambien traducir. Por lo general, yo lo uso para traducir al ingles en un solo post.
 </div>
 
-<center>Facil de entender</center>
-Al principio me parecia complicado de hacer pero investigue un poco sobre Markdown y entendí para que sirven esos codigos.
-Tu puedes empezar solo copiando los codigos y pegandolo en tu post, pero la idea es que aprendas hacerlo manualmente.
-</div>
-</div>
+
 <!--
 **leofer1995/leofer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
