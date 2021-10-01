@@ -5,7 +5,7 @@
 
 ### Mis Tecnologias 
 <div style='display:flex'>
-  <div style='width:50%; height:auto'>
+  <div style='width:30%; height:auto'>
       <ul>
          <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
          <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
@@ -18,7 +18,7 @@
          <li>Git & GitHub <img style='width:20px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrs52Ac9_og8Lk75mU3j3zD0qp5Dj0mpsDGg&usqp=CAU'></li>
       </ul> 
    </div>
-   <div>
+   <div style='width:40%; height:auto'>
       <img style='width:100%; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'>
    </div>
   
