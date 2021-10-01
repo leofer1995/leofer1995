@@ -8,13 +8,13 @@
 <ul>
   <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
   <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
-  <li>Redux></li>
-  <li>NodeJS</li>
-  <li>ExpressJS</li>
-  <li>Postgres</li>
-  <li>Sequelize</li>
-  <li>NPM</li>
-  <li>Git & GitHub</li>
+  <li>Redux <img style='width:20px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gltPu8C7VFaLIEprGm9Vpms3NLxqQJX1Gw&usqp=CAU'></li>
+  <li>NodeJS <img style='width:30px; height:20px'src='https://images.squarespace-cdn.com/content/v1/521e95f4e4b01c5870ce81cf/1519923171672-4YI5F2WKL7JUMEJZYKTL/Node_1.png'></li>
+  <li>ExpressJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
+  <li>Postgres <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
+  <li>Sequelize <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
+  <li>NPM <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
+  <li>Git & GitHub <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
 </ul> 
 <!--
 **leofer1995/leofer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
