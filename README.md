@@ -6,7 +6,7 @@
 
 ### Mis Tecnologias 
 
-<table style='width:100%'>  
+<table border="0">  
     <tr>
 	    <td style='width:50%'>
       		<ul>
@@ -21,12 +21,15 @@
          	    <li>Git & GitHub <img style='width:20px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrs52Ac9_og8Lk75mU3j3zD0qp5Dj0mpsDGg&usqp=CAU'></li>
       	    </ul> 
 		</td>
-		<td style='width:50%'>
-           <img style='width:250px; height:auto'src='https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif'/> 
+		<td style='padding:50px'>
+           <img style='width:300px; height:250px'src='https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif'/> 
         </td>
    </tr>
- 
 </table>
+
+### Mis Proyectos
+
+
 
 		
 <!--
