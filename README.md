@@ -6,7 +6,7 @@
 ### Mis Tecnologias 
 
 <ul>
-  <li>JavaScript  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw2ShDd3boWMGuWR6mh3-Y91&ust=1633145117767000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiihOehqPMCFQAAAAAdAAAAABAD'>  </li>
+  <li>JavaScript  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
   <li>PHP  <img src=''></li>
   <li>Java  <img src=''></li>
   <li>Node  <img src=''></li>
