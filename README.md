@@ -7,7 +7,7 @@
 
 <ul>
   <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
-  <li>ReactJS</li>
+  <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
   <li>Redux></li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
