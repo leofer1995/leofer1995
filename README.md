@@ -1,6 +1,6 @@
 ### Hola, Soy Leo! 👋
 <div>
-  <img src='https://media-exp1.licdn.com/dms/image/C5616AQGqsq4FYKEI-w/profile-displaybackgroundimage-shrink_350_1400/0/1621284022720?e=1638403200&v=beta&t=5-UnPkeGTIGlcxFIzlW1V2B9RfJD1G6ufLC505eUkKQ'>  
+  <img src='https://www.canva.com/design/DAEeqBTGtYI/ybvqMHyQg1po578s4nuluQ/watch?utm_content=DAEeqBTGtYI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'>  
 <div>
 <!--
 **leofer1995/leofer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
