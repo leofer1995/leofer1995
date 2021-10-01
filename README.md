@@ -4,7 +4,7 @@
 </div>
 
 ### Mis Tecnologias 
-<div style='display:flex'>
+<div style='display:flex;'>
   
    <div style='width:30%; height:auto'>
       <ul>
