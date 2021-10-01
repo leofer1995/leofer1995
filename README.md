@@ -4,9 +4,9 @@
 </div>
 
 ### Mis Tecnologias 
-<div style='display:flex;'>
+
   
-   <div style='width:30%; height:auto'>
+   <div class='pull-left'>
       <ul>
          <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
          <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
@@ -20,15 +20,17 @@
       </ul> 
    </div>
   
-   <div style='width:40%; height:auto'>
+   <div class='pull-right'>
       <img style='width:50px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'>
    </div>
-</div>
+
 
 <div class="pull-left">
 
 <center>Seperar tu contenido </center>
+  
 ##### Algunas ideas...
+  
 Separar el texto en dos columnas es ideal para crear historias o hacer una especie de libro virtual, así como tambien traducir. Por lo general, yo lo uso para traducir al ingles en un solo post.
 </div>
 
