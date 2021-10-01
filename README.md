@@ -6,7 +6,7 @@
 
 ### Mis Tecnologias 
 
-<table border="0">  
+<table >  
     <tr>
 	    <td style='width:50%'>
       		<ul>
@@ -43,17 +43,17 @@
 	</tr>
 	<tr>
 		<td>
-            <a href="https://leofer1995.github.io/Gifs-App/">
+            <a href="https://leofer1995.github.io/Gifs-App/" target='_blank'>
                 <img style='width:230px; height:150px' src='https://user-images.githubusercontent.com/83602267/135567527-d4df354a-a347-4a6c-abb2-74423b651d05.jpg'>
             </a>
 		</td>
 		<td>
-            <a href="https://www.linkedin.com/posts/juniordevelopment_react-css-redux-activity-6839260448517345280-rnoE">
+            <a href="https://www.linkedin.com/posts/juniordevelopment_react-css-redux-activity-6839260448517345280-rnoE" target='_blank'>
                 <img  style='width:230px; height:150px'  src='https://user-images.githubusercontent.com/83602267/135567976-f2f50c25-840f-4c0e-8487-fca3d3afecc5.jpg'>
             </a>
 		</td>
         <td>
-            <a href="https://www.linkedin.com/posts/juniordevelopment_react-javascript-henry-activity-6828395874037612544-6mqF">
+            <a href="https://www.linkedin.com/posts/juniordevelopment_react-javascript-henry-activity-6828395874037612544-6mqF" target='_blank'>
                 <img  style='width:230px; height:150px'  src='https://user-images.githubusercontent.com/83602267/135568500-1f503fe3-8c83-4019-b557-19eb796b4c83.png'>
             </a>
 		</td>
@@ -63,7 +63,7 @@
 ### Contactame
 
 <ul>
-    <a href="https://www.linkedin.com/in/juniordevelopment/">
+    <a href="https://www.linkedin.com/in/juniordevelopment/" target='_blank'>
         <li>Linkedin
             <img  style='width:20px; height:20px'  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaG1u4nLnAEwcuByyVMs6MsDp9leB5Omeh0w&usqp=CAU'>
         </li>
