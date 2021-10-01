@@ -1,8 +1,3 @@
-<style>
-  .contenedor{
-    display:flex;
-  }
-</style>
 
 ### Hola, Soy Leo! 👋
 <div>
