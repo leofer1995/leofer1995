@@ -1,6 +1,6 @@
 <style>
   .contenedor{
-    display:flex
+    display:flex;
   }
 </style>
 
