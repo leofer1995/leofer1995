@@ -6,12 +6,15 @@
 ### Mis Tecnologias 
 
 <ul>
-  <li>JavaScript  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
-  <li>PHP  <img src=''></li>
-  <li>Java  <img src=''></li>
-  <li>Node  <img src=''></li>
-  <li>JavaScript  <img src=''></li>
-  <li>JavaScript  <img src=''></li>
+  <li>JavaScript</li>
+  <li>ReactJS</li>
+  <li>Redux></li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>Postgres</li>
+  <li>Sequelize</li>
+  <li>NPM</li>
+  <li>Git & GitHub</li>
 </ul> 
 <!--
 **leofer1995/leofer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
