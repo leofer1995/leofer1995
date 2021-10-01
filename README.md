@@ -13,8 +13,8 @@
 
 <table>  
    <tr>
-		 <td>
-      <ul>
+	<td>
+      		<ul>
         	 <li>JavaScript  <img style='width:20px; height:20px'src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png'> </li>
         	 <li>ReactJS <img style='width:20px; height:20px'src='https://www.azulschool.net/wp-content/uploads/group-avatars/12/5db2d27cac708-bpfull.png'></li>
         	 <li>Redux <img style='width:20px; height:20px'src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gltPu8C7VFaLIEprGm9Vpms3NLxqQJX1Gw&usqp=CAU'></li>
@@ -28,7 +28,7 @@
 			</td>
 		 
 		 	<td>
-				<img style='width:50px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'>
+				<img style='width:50px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'/>
 		 </td>
    </tr>
  
