@@ -10,7 +10,7 @@
 </div>
 ### Mis Tecnologias 
 
-<table>  
+<table style='width:100%'>  
     <tr>
 	    <td style='width:50%'>
       		<ul>
@@ -26,7 +26,7 @@
       	    </ul> 
 		</td>
 		<td style='width:50%'>
-           <img style='width:200px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'/> 
+           <img style='width:250px; height:auto'src='https://3.bp.blogspot.com/-8kw2gxigGIc/XMEJzNFoWMI/AAAAAAAABEw/RSAC3gCNLvk-eVy9ple7B7q8lL9CyHFXACLcBGAs/s1600/SimpsonsGIF36.gif'/> 
         </td>
    </tr>
  
