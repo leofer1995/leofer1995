@@ -9,11 +9,6 @@
   
 #### y mucho más...
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofer1995&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofer1995&theme=buefy&layout=compact" />
-</a>
-
 <h3> :camera: &nbsp;Social</h3>
 
 <a href="https://www.facebook.com/LeoFnndezZ">
@@ -63,6 +58,12 @@
 		</td>
 	</tr>
 </table>
+
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofer1995&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofer1995&theme=buefy&layout=compact" />
+</a>
 		
 <!--
 **leofer1995/leofer1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
